@@ -1,0 +1,73 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Software Engineering</h2>
+		<p>I have gone through the process of mind to paper, and from paper to product through many different ways.
+			Both from self-created projects as well as in-school assignments.
+		</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="list" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>UX / UI Designer</h2>
+		<p>I have had experience in user design as well as user experience. I also have had experiences in different
+			user research methods and evalutation techniques to ensure that the project is done to the best of my abiity.
+		</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon='fast' color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Fast Paced</h2>
+		<p>Although I can definitely take it slow, I have learned that I am good in accelerated as well as high pressure workplaces.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon='talk' color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Team Oriented</h2>
+		<p>Even though I can work solo, I have lots of experiences working with many different types of teams. Through this, I 
+			have learned many different communication techniques to increase understanding and efficiency in conversations.
+		</p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>
