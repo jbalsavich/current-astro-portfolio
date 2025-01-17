@@ -11,7 +11,7 @@ tags:
   - SolidJS
   - Accessibility
 ---
-*[View the Website Here](https://supportivehomeserviceswi.com/)*
+*Website Has Been Removed As Business Has Shut Down*
 
 With my introduction to React.JS and Solid.JS, I was able to create a website for a local business that provides home services to the elderly and disabled. The website was designed to be accessible and user-friendly, with a focus on providing information about the services offered and how to contact the business. The website was built using Solid.JS, a lightweight JavaScript library that is similar to React.JS but with a focus on performance and simplicity. I enjoyed working on this project and learning more about web development and accessibility.
 
