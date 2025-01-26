@@ -1,5 +1,5 @@
 ---
-title: Supportive Home Services Website
+title: Local Business Website
 publishDate: 2022-06-13 00:00:00
 img: /assets/suphome.png
 img_alt: A white house on a lake depictive sunset by showing pink as the color of the sky and water, with blue trees.
@@ -18,4 +18,4 @@ With my introduction to React.JS and Solid.JS, I was able to create a website fo
 This project was completed in communication with the business owner, who provided feedback and guidance throughout the development process. I was able to learn more about the needs of a business and how to create a website that meets those needs. 
 
 **Problem Statement:**
-Supportive Home Services is a local business that provides home services to the elderly and disabled. Even though the business did have a website, it was outdated in both design and usability. The website did not have **https** support and did not fully express what the business offered. The business owner wanted a new website that was modern, accessible, and user-friendly.
+The local businesswas a local business that provides home services to the elderly and disabled. Even though the business did have a website, it was outdated in both design and usability. The website did not have **https** support and did not fully express what the business offered. The business owner wanted a new website that was modern, accessible, and user-friendly.
