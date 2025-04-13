@@ -14,9 +14,6 @@ tags:
   - Hardware Requirements
   - Specifications
   - Risk Management
-  - Documentation
----
-*[The Link to the Final PDR](https://docs.google.com/document/d/1e8iCW7eQeuNV0odgqhjzAC_vHh0U8_ga54LdpP1Igp8/)*
 
 
 Over the course of the summer of 2022, and in collaboration with a team of individuals from all over the country, we created a Preliminary Design Review (PDR) for a Mars Rover project. The goal of the project was to design a Mars Rover that could explore the caves of Mars and instead of just taking pictures, it would use LiDar detection and mapping to create a 3D map of the caves with a comprehensive catalog of the minerals and resources found within the caves. This was to be done in preparation for a manned mission to Mars in the future.
